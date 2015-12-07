@@ -3,21 +3,16 @@
 # Getting Started 
 
 
-1.npm install -g slush-react-quick-kit
+1. npm install -g slush-react-quick-kit
 
-2.mkdir new-project-folder && cd new-project-folder
+2. mkdir new-project-folder && cd new-project-folder
 
-3.slush react-quick-kit
+3. slush react-quick-kit
 
-
-
-***
-***
 This generator will generate example code by default unless you specifiy in the prompt not to(type n for no)
-***
-***
 
-***
+# Commands (run in project root directory)
+
 npm start -> start up a webpack server with hotreloading and browser-sync intergration
 ***
 npm add-component -> add boilerplate in main/app for a new component
