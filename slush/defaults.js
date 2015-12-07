@@ -23,10 +23,7 @@ var defaults = (function () {
     }
 
     return {
-        appName: workingDirName//,
-        // userName: osUserName || format(user.name || ''),
-        // authorName: user.name || '',
-        // authorEmail: user.email || ''
+        appName: workingDirName
     };
 })();
 

@@ -12,9 +12,7 @@ var runSequence = require('run-sequence');
 
 var generate = function (done) {  
     inquirer.prompt(prompts, function (responses) {
-        if (!responses.moveon) {
-            return done();
-        }
+
         responses = transform(responses)
 
         gulp.task('core', function () {  
