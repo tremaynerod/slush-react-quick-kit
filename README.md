@@ -13,10 +13,8 @@ This generator will generate example code by default unless you specifiy in the 
 
 # Commands (run in project root directory)
 
-npm start -> start up a webpack server with hotreloading and browser-sync intergration
-***
-npm add-component -> add boilerplate in main/app for a new component
-***
+npm start -> start up a webpack server with hotreloading and browser-sync intergratio  return
+npm add-component -> add boilerplate in main/app for a new component  return
 npm debug -> start up the server in dev mode to enable redux-devtools
 ***
 npm run build -> builds a bundle.js for exporting component
