@@ -1,0 +1,9 @@
+.numbersContainer {
+  max-width: 600px;
+}
+
+.numbers {
+  color: red;
+  font-size: 150px;
+  word-wrap: break-word;
+}

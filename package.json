@@ -1,0 +1,43 @@
+{
+  "name": "slush-slush-test",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "https://github.com/trodrigues/slush-slush-test",
+  "author": {
+    "name": "Tremayne Rodrigues",
+    "email": "TRodrigues@theladders.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trodrigues/slush-slush-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trodrigues/slush-slush-test/issues"
+  },
+  "license": "MIT",
+  "main": "slushfile.js",
+  "engines": {
+    "node": ">= 0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "change-case": "^2.3.0",
+    "gulp": "^3.9.0",
+    "gulp-conflict": "^0.4.0",
+    "gulp-inject-string": "^1.0.0",
+    "gulp-install": "^0.6.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-template": "^3.1.0",
+    "iniparser": "^1.0.5",
+    "inquirer": "^0.11.0",
+    "run-sequence": "^1.1.5",
+    "slush": ">=1.0.0",
+    "underscore.string": "^3.2.2"
+  },
+  "keywords": [
+    "slushgenerator"
+  ]
+}
