@@ -8,7 +8,8 @@
 2. mkdir new-project-folder && cd new-project-folder
 
 3. slush react-quick-kit
-
+4. 
+***
 This generator will generate example code by default unless you specifiy in the prompt not to (type n for no)
 
 # Commands (run in project root directory)
