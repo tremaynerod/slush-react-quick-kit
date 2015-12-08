@@ -26,20 +26,11 @@ npm run build -> builds a bundle.js for exporting component<br/>
 
 # Intergrated technologies
 
-***
-react
-***
-redux
-***
-redux-devtools
-***
-webpack
-***
-gulp
-***
-browser-sync
-***
-postcss
-***
-and more ....
-***
+react<br/> 
+redux<br/> 
+redux-devtools<br/> 
+webpack<br/> 
+gulp<br/> 
+browser-sync<br/> 
+postcss<br/> 
+and more ....<br/> 
