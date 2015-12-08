@@ -9,7 +9,7 @@
 
 3. slush react-quick-kit
 
-This generator will generate example code by default unless you specifiy in the prompt not to(type n for no)
+This generator will generate example code by default unless you specifiy in the prompt not to (type n for no)
 
 # Commands (run in project root directory)
 <br/> 
